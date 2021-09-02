@@ -14,7 +14,7 @@
 
 get_header(); ?>
 
-<section id="primary" class="container-fluid py-4">
+<section id="primary" class="container-fluid py-4 bg-light">
 	<main id="main" class="site-main content-area" role="main">
 	<h1 class="hero m-0 p-3">Latest News</h1>
 	<div class="row p-lg-3">
