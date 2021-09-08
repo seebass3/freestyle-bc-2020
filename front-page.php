@@ -95,7 +95,7 @@ get_header(); ?>
                     <h2 class="hero">Freestyle BC supports local freestyle ski clubs in the delivery of the CanFreestyle
                         Ski program. The CanFreestyle program provides training and skill progressions for coaches to
                         best teach athletes mogul, halfpipe and slopestyle skiing.</h2>
-                    <a href="#clubmap" class="page-scroller"><button type="button" class="btn btn-blue">Learn
+                    <a href="/clubs" class="page-scroller"><button type="button" class="btn btn-blue">Learn
                             More</button></a>
                 </div>
             </div>
