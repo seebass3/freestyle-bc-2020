@@ -89,7 +89,7 @@ get_header(); ?>
 
                     <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 col-xs-6 item-item">
                         <div class="dummy"></div>
-                        <a href="/coaching-program/" target='blank'>
+                        <a href="/coaching-program/">
                             <div class="thumbnail"
                                 style="background-image: url('<?php bloginfo('template_url'); ?>/images/coach-img.jpg');">
                                 <div class="bg"><span class="thumbnail-text">
