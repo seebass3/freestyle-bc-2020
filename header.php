@@ -77,7 +77,7 @@
                 ?>
 
                     <div id="social-icons">
-                        <button type="button" class="btn btn-ins"><a href="https://instagram.com/freestylebc"
+                        <button type="button" class="btn btn-ins"><a href="https://instagram.com/freestylebc/"
                                 class="social-link" target="blank"><i class="fab fa-instagram"></i></a></button>
                         <button type="button" class="btn btn-yt"><a
                                 href="https://www.youtube.com/channel/UC7dl7h5SCcMXfYVcpimS18w" class="social-link"
