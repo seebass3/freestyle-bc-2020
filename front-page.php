@@ -209,7 +209,7 @@ get_header(); ?>
                     <div class="dummy"></div>
                     <div class="info-caption counter">
                         <div id="counter">
-                            <div class="counter-value" data-count="1300" style="color:#2D87CC">0</div> <i
+                            <div class="counter-value" data-count="1800" style="color:#2D87CC">0</div> <i
                                 class="fa fa-plus"></i>
                             <p>Members</p>
                             <div class="counter-value" data-count="12" style="color:#2D87CC">0</div>
